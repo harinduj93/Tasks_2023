@@ -7,7 +7,7 @@ Welcome to the Daily Task Repository! 🚀
 1. **Clone this Repository**:
    - Clone this repository to your local machine using the following command:
      ```
-     git clone <repository_url>
+     git clone https://github.com/harinduj93/Tasks_2023.git
      ```
 
 2. **Daily Tasks**:
